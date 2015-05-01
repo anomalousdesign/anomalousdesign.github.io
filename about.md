@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love building things. I have built skyscrapers, parking garages, houses, children and now websites, software and games. Teaching myself web development on a busy schedule has been extremely difficult, but so rewarding and fun. I want o help beginners and intermediates alike get started, and more importantly stick with programming and design by highlighting some of my greatest failures and how to avoid them. 
 
 ### Contact me
 
